@@ -1,0 +1,13 @@
+{
+  "name": "backend-agendamentos",
+  "version": "1.0.0",
+  "description": "API de agendamentos para prototipo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
